@@ -137,6 +137,7 @@
                 <li><a href="about.php">About</a></li>
                 <li><a href="register.php">Booking</a></li>
                 <li><a href="#profile">User Profile</a></li>
+                <li><a href="#profile">Admin</a></li>
             </ul>
         </nav>
     </header>
